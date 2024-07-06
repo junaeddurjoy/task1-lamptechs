@@ -171,7 +171,7 @@ const page = () => {
         {/* registration */}
         <div className="grid grid-cols-1 lg:grid-cols-2 items-center bg-[url('https://i.ibb.co/pPdpM5V/background-2.jpg')] p-10 bg-opacity-30">
           <div className="text-3xl md:text-5xl lg:text-7xl text-white font-semibold md:p-10 lg:p-10">
-            welcome to the club, champ
+            welcome to the club, champ! <span className="text-yellow-400 font-bold hover:underline">register now!!!</span>
           </div>
           <div className="bg-gradient-to-t from-[#222222] to-[#050505] shadow-2xl rounded-2xl ">
             <div className="text-3xl md:text-5xl lg:text-5xl px-10 pt-10 text-white font-semibold">
